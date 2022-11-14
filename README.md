@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ogün</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **ASP.Net, React, Angular**
+- 🌱  **ASP.Net, React, Angular**
 
 - 📫 How to reach me **ogun.ergin35@gmail.com**
 
