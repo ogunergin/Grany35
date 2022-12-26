@@ -1,5 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on ASP.Net & Angular & React<br>🌱 I’m currently learning React Native
+⚡ I’m currently working at Gunkom
+⚡ Co-Founder of Digital Mavericks
 
 
 ## 🌐 Socials:
