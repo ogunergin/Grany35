@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ASP.Net & Angular <br>🌱 I’m currently learning React Native<br>⚡ Co-Founder of Digital Mavericks
+🔭 I’m currently working on ASP.Net & Angular
 
 
 ## 🌐 Socials:
